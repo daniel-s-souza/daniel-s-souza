@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-s-souza" alt="daniel-s-souza" /></a> </p>
 
-- 🌱 Estou aprendendo **React Hooks, Js, Css, Redux**
+- 📖 Estou aprendendo **React Hooks, Js, Css, Redux**
 
 - 💬 Me pergunte sobre **Games, Séries, tecnologia**
 
