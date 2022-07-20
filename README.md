@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-s-souza&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-s-souza" /> </p>
 
 <h3 align="center">Um apaixonado pelo universo geek, Desenvolvedor Front-End em processo de aprendizado e um completo apaixonado pela saga Star Wars</h3>
 
